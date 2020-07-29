@@ -1,0 +1,172 @@
+###
+@##
+It¡¯s true that high-school coding classes aren¡¯t essential for learning computer science in college. Students without experience can catch up after a few introductory courses, said Tom Cortina, the assistant dean at Carnegie Mellon¡¯s School of Computer Science.
+@##
+However, Cortina said, early exposure is beneficial. When younger kids learn computer science, they learn that it¡¯s not just a confusing, endless string of letters and numbers ¡ª but a tool to build apps, or create artwork, or test hypotheses. It¡¯s not as hard for them to transform their thought processes as it is for older students. Breaking down problems into bite-sized chunks and using code to solve them becomes normal. Giving more children this training could increase the number of people interested in the field and help fill the jobs gap, Cortina said.
+@##
+Students also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the less-experienced or-determined students away.
+@##
+The Flatiron School, where people pay to learn programming, started as one of the many coding bootcamps that ¡¯ s become popular for adults looking for a career change. The high-schoolers get the same curriculum, but ¡°we try to gear lessons toward things they¡¯re interested in,¡± said Victoria Friedman, an instructor. For instance, one of the apps the students are developing suggests movies based on your mood.
+@##
+The students in the Flatiron class probably won¡¯t drop out of high school and build the next Facebook. Programming languages have a quick turnover, so the ¡°Ruby on Rails¡± language they learned may not even be relevant by the time they enter the job market. But the skills they learn
+¡ª how to think logically through a problem and
+organize the results ¡ª apply to any coding language, said Deborah Seehorn, an education consultant for the state of North Carolina.
+@##
+Indeed, the Flatiron students might not go into IT at all. But creating a future army of coders is not the sole purpose of the classes. These kids are going to be surrounded by computers ¡ª in their pockets, in their offices, in their homes ¡ª for the rest of their lives. The younger they learn how computers think, how to coax the machine into producing what they want ¡ª the earlier they learn that they have the power to do that ¡ª the better.
+@@@
+#@@
+Cortina holds that early exposure to computer science makes it easier to____.
+@# complete future job training
+@# remodel the way of thinking
+@# formulate logical hypotheses
+@# perfect artwork production
+#@@
+In delivering lessons for high-schoolers, Flatiron has considered their____.
+@#experience
+@#academic backgrounds
+@#career prospects
+@#interest
+#@@
+Deborah Seehorn believes that the skills learned at Flatiron will____.
+@#help students learn other computer languages
+@#have to be upgraded when new technologies come
+@#need improving when students look for jobs
+@#enable students to make big quick money
+#@@
+According to the last paragraph, Flatiron students are expected to____.
+@#compete with a future army of programmers
+@#stay longer in the information technology industry
+@#become better prepared for the digitalized world
+@#bring forth innovative computer technologies
+#@@
+The word ¡°coax¡± (Line4, Para.6) is closest in meaning to____.
+@#challenge
+@#persuade
+@#frighten
+@#misguide
+###
+@##
+Biologists estimate that as many as 2 million lesser prairie chickens---a kind of bird living on stretching grasslands ¡ª once lent red to the often gray landscape of the midwestern and southwestern United States. But just some 22,000 birds remain today, occupying about 16% of the species¡¯ historic range.
+@##
+The crash was a major reason the U.S Fish and Wildlife Service (USFWS)decided to formally list the bird as threatened. ¡°The lesser prairie chicken is in a desperate situation,¡± said USFWS Director Daniel Ashe. Some environmentalists, however, were disappointed. They had pushed the agency to designate the bird as ¡°endangered,¡± a status that gives federal officials greater regulatory power to crack down on threats. But Ashe and others argued that the
+¡°threatened¡± tag gave the federal government flexibility to try out new, potentially less confrontational conservations approaches. In particular, they called for forging closer collaborations with western state governments, which are often uneasy with federal action and with the private landowners who control an estimated 95% of the prairie chicken¡¯s habitat.
+@##
+Under the plan, for example, the agency said it would not prosecute landowner or businesses that unintentionally kill, harm, or disturb the bird, as long as they had signed a range¡ªwide management plan to restore prairie chicken habitat. Negotiated by USFWS and the states, the plan requires individuals and businesses that damage habitat as part of their operations to pay into a fund to replace every acre destroyed with 2 new acres of suitable habitat. The fund will also be used to compensate landowners who set aside habitat, USFWS also set an interim goal of restoring prairie chicken populations to an annual average of 67,000 birds over the next 10 years. And it gives the Western Association of Fish and Wildlife Agencies (WAFWA), a coalition of state agencies, the job of monitoring progress. Overall, the idea is to let ¡°states¡± remain in the driver¡¯ s seat for managing the species£¬¡± Ashe said.
+@##
+Not everyone buys the win-win rhetoric Some Congress members are trying to block the plan, and at least a dozen industry groups, four states, and three environmental groups are challenging it in federal court Not surprisingly, doesn¡¯t go far enough ¡°The federal government is giving responsibility for managing the bird to the same industries that are pushing it to extinction,¡± says biologist Jay Lininger.
+@@@
+#@@
+The major reason for listing the lesser prairie as threatened is____
+@#its drastically decreased population
+@#the underestimate of the grassland acreage
+@#a desperate appeal from some biologists
+@#the insistence of private landowners
+#@@
+The ¡°threatened¡± tag disappointed some environmentalists in that it_____
+@#was a give-in to governmental pressure
+@#would involve fewer agencies in action
+@#granted less federal regulatory power
+@#went against conservation policies
+#@@
+It can be learned from Paragraph3 that unintentional harm-doers will not be prosecuted if they_____
+@#agree to pay a sum for compensation
+@#volunteer to set up an equally big habitat
+@#offer to support the WAFWA monitoring job
+@#promise to raise funds for USFWS operations
+#@@
+According to Ashe£¬ the leading role in managing the species in______
+@#the federal government
+@#the wildlife agencies
+@#the landowners
+@#the states
+#@@
+Jay Lininger would most likely support_______
+@#industry groups
+@#the win-win rhetoric
+@#environmental groups
+@#the plan under challenge
+###
+@##
+That everyone¡¯s too busy these days is a clich¨¦. But one specific complaint is made especially mournfully£º There¡¯s never any time to read.
+@##
+What makes the problem thornier is that the usual time-management techniques don¡¯t seem sufficient. The web¡¯s full of articles offering tips on making time to read: ¡°Give up TV¡± or ¡°Carry a book with you at all times¡± But in my experience, using such methods to free up the odd 30 minutes doesn¡¯t work. Sit down to read and the flywheel of work-related thoughts keeps spinning-or else you¡¯re so exhausted that a challenging book¡¯s the last thing you need. The modern mind, Tim Parks, a novelist and critic, writes, ¡°is overwhelmingly inclined toward communication¡­It is not simply that one is interrupted; it is that one is actually inclined to interruption¡±. Deep reading requires not just time, but a special kind of time which can¡¯t be obtained merely by becoming more efficient.
+@##
+In fact, ¡°becoming more efficient¡± is part of the problem. Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal immersive reading, by contrast, depends on being willing to risk inefficiency, goallessness, even time-wasting. Try to slot it as a to-do list item and you¡¯ll manage only goal-focused reading-useful, sometimes, but not the most fulfilling kind. ¡°The future comes at us like empty bottles along an unstoppable and nearly infinite conveyor belt,¡± writes Gary Eberle in his book Sacred Time, and ¡°we feel a pressure to fill these different-sized bottles (days, hours, minutes)as they pass, for if they get by without being filled, we will have wasted them¡±. No mind-set could be worse for losing yourself in a book.
+@##
+So what does work? Perhaps surprisingly, scheduling regular times for reading. You¡¯d think this might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us ¡°step outside time¡¯s flow¡± into ¡°soul time¡±. You could limit distractions by reading only physical books, or on single-purpose e-readers. ¡°Carry a book with you at all times¡± can actually work, too-providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down. On a really good day, it no longer feels as if you¡¯re ¡°making time to read,¡± but just reading, and making time for everything else.
+@@@
+#@@
+The usual time-management techniques don¡¯t work because
+@# what they can offer does not ease the modern mind
+@# what challenging books demand is repetitive reading
+@# what people often forget is carrying a book with them
+@# what deep reading requires cannot be guaranteed
+#@@
+The ¡°empty bottles¡± metaphor illustrates that people feel a pressure to
+@# update their to-do lists
+@# make passing time fulfilling
+@# carry their plans through
+@# pursue carefree reading
+#@@
+Eberle would agree that scheduling regular times for reading helps
+@#encourage the efficiency mind-set
+@#develop online reading habits
+@#promote ritualistic reading
+@#achieve immersive reading
+#@@
+¡°Carry a book with you at all times¡± can work if
+@# reading becomes your primary business of the day
+@# all the daily business has been promptly dealt with
+@# you are able to drop back to business after reading
+@# time can be evenly split for reading and business
+#@@
+The best title for this text could be
+@#How to Enjoy Easy Reading
+@#How to Find Time to Read
+@#How to Set Reading Goals
+@#How to Read Extensively
+###
+@##
+Against a backdrop of drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map to success, a latest poll has found.
+@##
+Across generational lines, Americans continue to prize many of the same traditional milestones of a successful life, including getting married, having children, owning a home, and retiring in their sixties. But while young and old mostly agree on what constitutes the finish line of a fulfilling life, they offer strikingly different paths for reaching it.
+@##
+Young people who are still getting started in life were more likely than older adults to prioritize personal fulfillment in their work, to believe they will advance their careers most by regularly changing jobs, to favor communities with more public services and a faster pace of life, to agree that couples should be financially secure before getting married or having children, and to maintain that children are best served by two parents working outside the home, the survey found.
+@##
+From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics.
+@##
+Young and old converge on one key point: Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations. While younger people are somewhat more optimistic than their elders about the prospects for those starting out today, big majorities in both groups believe those ¡°just getting started in life¡± face a tougher a good-paying job, starting a family, managing debt, and finding affordable housing.
+@##
+Pete Schneider considers the climb tougher today. Schneider, a 27-yaear-old auto technician from the Chicago suburbs says he struggled to find a job after graduating from college. Even now that he is working steadily, he said.¡± I can¡¯t afford to pay ma monthly mortgage payments on my own, so I have to rent rooms out to people to mark that happen.¡± Looking back, he is struck that his parents could provide a comfortable life for their children even though neither had completed college when he was young. ¡°I still grew up in an upper middle-class home with parents who didn¡¯t have college degrees,¡± Schneider said. ¡°I don¡¯t think people are capable of that anymore.¡±
+@@@
+#@@
+One cross-generation mark of a successful life is_____.
+@# trying out different lifestyles
+@# having a family with children
+@# working beyond retirement age
+@# setting up a profitable business
+#@@
+It can be learned from Paragraph 3 that young people tend to ____.
+@# favor a slower life pace
+@# hold an occupation longer
+@# attach importance to pre-marital finance
+@# give priority to childcare outside the home
+#@@
+The priorities and expectations defined by the young will ____.
+@##
+@#become increasingly clear
+@#focus on materialistic issues
+@#depend largely on political preferences
+@#reach almost all aspects of American life
+#@@
+ Both young and old agree that ____
+@#good-paying jobs are less available
+@#the old made more life achievements
+@#housing loans today are easy to obtain
+@#getting established is harder for the young
+#@@
+ Which of the following is true about Schneider?
+@#He found a dream job after graduating from college
+@#His parents believe working steadily is a must for success
+@#His parents¡¯ good life has little to do with a college degree
+@#He thinks his job as a technician quite challenging.
