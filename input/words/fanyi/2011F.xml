@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Frhelper_Backup BackupFileVersion="2.0">
+	<StudyCategory />
+	<StudyLists>
+		<CustomizeListItem word="prospect" itemType="-9999" addTimeP="20191106T063747" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="190489" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="departure" itemType="-9999" addTimeP="20191106T063735" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="60549" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="bright" itemType="-9999" addTimeP="20191106T063703" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="30227" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="improvement" itemType="-9999" addTimeP="20191106T062908" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="115332" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="closely" itemType="-9999" addTimeP="20191106T062849" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="44975" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="efficiency" itemType="-9999" addTimeP="20191106T062839" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="71968" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="monitor" itemType="-9999" addTimeP="20191106T062827" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="150090" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="gram" itemType="-9999" addTimeP="20191106T062330" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="97591" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="emission" itemType="-9999" addTimeP="20191106T061955" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="73931" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="gas" itemType="-9999" addTimeP="20191106T061936" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="92476" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="greenhouse" itemType="-9999" addTimeP="20191106T061915" rating="1" categoryTag="@1572851337@1576823445" fakeRecordId="98393" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+	</StudyLists>
+</Frhelper_Backup>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Frhelper_Backup BackupFileVersion="2.0">
+	<StudyCategory />
+	<StudyLists>
+		<CustomizeListItem word="deprive" itemType="-9999" addTimeP="20191106T070745" rating="1" categoryTag="@1572851344@1576823445" fakeRecordId="60742" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="policymaker" itemType="-9999" addTimeP="20191106T064526" rating="1" categoryTag="@1572851344@1576823445" fakeRecordId="183825" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="bother" itemType="-9999" addTimeP="20191106T064510" rating="1" categoryTag="@1572851344@1576823445" fakeRecordId="28799" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="drain" itemType="-9999" addTimeP="20191106T064455" rating="1" categoryTag="@1572851344@1576823445" fakeRecordId="68576" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="brain" itemType="-9999" addTimeP="20191106T064449" rating="1" categoryTag="@1572851344@1576823445" fakeRecordId="29494" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="brain drain" itemType="-9999" addTimeP="20191106T064443" rating="1" categoryTag="@1572851344@1576823445" fakeRecordId="-1" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="household" itemType="-9999" addTimeP="20191106T064401" rating="1" categoryTag="@1572851344@1576823445" fakeRecordId="108976" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+	</StudyLists>
+</Frhelper_Backup>

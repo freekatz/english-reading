@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Frhelper_Backup BackupFileVersion="2.0">
+	<StudyCategory />
+	<StudyLists>
+		<CustomizeListItem word="journalism" itemType="-9999" addTimeP="20191117T080005" rating="1" categoryTag="@1573977502@1576823445" fakeRecordId="123930" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="compete" itemType="-9999" addTimeP="20191117T075930" rating="1" categoryTag="@1573977502@1576823445" fakeRecordId="47975" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="sewing" itemType="-9999" addTimeP="20191117T075914" rating="1" categoryTag="@1573977502@1576823445" fakeRecordId="215212" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="move on" itemType="-9999" addTimeP="20191117T075826" rating="1" categoryTag="@1573977502@1576823445" fakeRecordId="-1" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+	</StudyLists>
+</Frhelper_Backup>

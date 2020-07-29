@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Frhelper_Backup BackupFileVersion="2.0">
+	<StudyCategory />
+	<StudyLists>
+		<CustomizeListItem word="no exception" itemType="-9999" addTimeP="20191209T090211" rating="1" categoryTag="@1575791857@1576823445" fakeRecordId="-1" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="rejection" itemType="-9999" addTimeP="20191209T090042" rating="1" categoryTag="@1575791857@1576823445" fakeRecordId="200506" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="rewrite" itemType="-9999" addTimeP="20191209T090019" rating="1" categoryTag="@1575791857@1576823445" fakeRecordId="202920" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="polish" itemType="-9999" addTimeP="20191209T085957" rating="1" categoryTag="@1575791857@1576823445" fakeRecordId="183845" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="imitate" itemType="-9999" addTimeP="20191209T085830" rating="1" categoryTag="@1575791857@1576823445" fakeRecordId="114628" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="readable" itemType="-9999" addTimeP="20191209T085822" rating="1" categoryTag="@1575791857@1576823445" fakeRecordId="198364" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="pleasant" itemType="-9999" addTimeP="20191209T085809" rating="1" categoryTag="@1575791857@1576823445" fakeRecordId="182266" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+	</StudyLists>
+</Frhelper_Backup>

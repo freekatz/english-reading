@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Frhelper_Backup BackupFileVersion="2.0">
+	<StudyCategory />
+	<StudyLists>
+		<CustomizeListItem word="avenue" itemType="-9999" addTimeP="20191201T065054" rating="1" categoryTag="@1575101750@1576823445" fakeRecordId="18353" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="planet" itemType="-9999" addTimeP="20191201T064949" rating="1" categoryTag="@1575101750@1576823445" fakeRecordId="181537" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="passionately" itemType="-9999" addTimeP="20191201T064858" rating="1" categoryTag="@1575101750@1576823445" fakeRecordId="172615" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="fiction" itemType="-9999" addTimeP="20191201T064838" rating="1" categoryTag="@1575101750@1576823445" fakeRecordId="84324" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="encyclopedia" itemType="-9999" addTimeP="20191201T064825" rating="1" categoryTag="@1575101750@1576823445" fakeRecordId="74395" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="astronaut" itemType="-9999" addTimeP="20191201T064758" rating="1" categoryTag="@1575101750@1576823445" fakeRecordId="16007" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="tick" itemType="-9999" addTimeP="20191201T064747" rating="1" categoryTag="@1575101750@1576823445" fakeRecordId="241962" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+		<CustomizeListItem word="occupation" itemType="-9999" addTimeP="20191201T064731" rating="1" categoryTag="@1575101750@1576823445" fakeRecordId="163539" fakeLibId="0" searchCount="0" deleted="0" serverTimestamp="20191220T063143" localTimestamp="19700101T000000" str1="" meta="" />
+	</StudyLists>
+</Frhelper_Backup>
